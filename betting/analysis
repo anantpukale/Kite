@@ -1,0 +1,40 @@
+CREATE TABLE IF NOT EXISTS primobet_odds (
+market_id INTEGER,
+event_id INTEGER,
+market_name TEXT,
+specifier TEXT,
+status TEXT,
+priority INTEGER,
+provider TEXT,
+most_balanced TEXT,
+market_groups TEXT,
+outcome_id INTEGER,
+outcome_name TEXT,
+odds REAL,
+active TEXT,
+FOREIGN KEY (event_id) REFERENCES primobet_matches (event_id)
+
+CREATE TABLE IF NOT EXISTS balkanbet_odds (
+event_id INTEGER,
+market_id INTEGER,
+market_name TEXT,
+outcome_name TEXT,
+outcome_odd REAL,
+FOREIGN KEY (event_id) REFERENCES balkanbet_matches (event_id)
+
+CREATE TABLE IF NOT EXISTS maxbet_odds (
+match_id INTEGER,
+odds_name TEXT,
+odds_value REAL,
+odds_key TEXT,
+custom_number REAL,
+FOREIGN KEY (match_id) REFERENCES maxbet_matches (match_id)
+
+CREATE TABLE IF NOT EXISTS meridianbet_odds (
+event_id INTEGER,
+market_id INTEGER,
+market_name TEXT,
+outcome_name TEXT,
+outcome_odd REAL,
+FOREIGN KEY (event_id) REFERENCES meridianbet_matches (event_id)
+

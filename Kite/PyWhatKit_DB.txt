@@ -1,0 +1,400 @@
+Date: 27/9/2022
+Time: 7:52
+Phone Number: +919036639041
+Message: TEST PY msg send
+--------------------
+Date: 27/9/2022
+Time: 7:55
+Phone Number: +919036639041
+Message: TEST PY msg send
+--------------------
+Date: 27/9/2022
+Time: 8:5
+Phone Number: +919916956002
+Message: GM :) Darling.... This is my automated msg/alert system
+--------------------
+Date: 27/9/2022
+Time: 8:6
+Phone Number: +919916956002
+Message: I was test my alert system. It is working :)
+--------------------
+Date: 27/9/2022
+Time: 16:39
+Phone Number: +919036639041
+Message: 220927601999123
+--------------------
+Date: 27/9/2022
+Time: 16:46
+Phone Number: +919036639041
+Message: {'status': 'success', 'data': {'order_id': '220927601999503'}}
+--------------------
+Date: 27/9/2022
+Time: 16:51
+Phone Number: +919036639041
+Message: {'status': 'success', 'data': {'order_id': '220927601999563'}}ICICIBANK Quantity: 11
+--------------------
+Date: 27/9/2022
+Time: 16:52
+Phone Number: +919036639041
+Message: {'status': 'success', 'data': {'order_id': '220927601999563'}}ICICIBANK Quantity: 11
+--------------------
+Date: 27/9/2022
+Time: 16:58
+Phone Number: +919036639041
+Message: {'status': 'success', 'data': {'order_id': '220927601999563'}}ICICIBANK Quantity: 11
+--------------------
+Date: 27/9/2022
+Time: 17:0
+Phone Number: +919036639041
+Message: {'status': 'success', 'data': {'order_id': '220927601999563'}}ICICIBANK Quantity: 11
+--------------------
+Date: 27/9/2022
+Time: 17:4
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 220927602000530
+--------------------
+Date: 27/9/2022
+Time: 17:6
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 220927602000669 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 17:7
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 220927602000721 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 20:27
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 29 Order id: 123 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 20:28
+Phone Number: +919036639041
+Message: stock: CIPLA Quantity: 9 Order id: 123 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 20:32
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 123 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 21:5
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 123 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 21:9
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 123 transaction type: BUY
+--------------------
+Date: 27/9/2022
+Time: 21:12
+Phone Number: +919036639041
+Message: stock: CIPLA Quantity: 9 Order id: 123 transaction type: BUY ; stock: ITC Quantity: 29 Order id: 123 transaction type: BUY ; stock: ADANIENT Quantity: 2 Order id: 123 transaction type: BUY ; stock: ICICIBANK Quantity: 11 Order id: 123 transaction type: BUY ;
+--------------------
+Date: 27/9/2022
+Time: 21:18
+Phone Number: +919036639041
+Message: 
+--------------------
+Date: 28/9/2022
+Time: 10:35
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 2 Order id: 220928600731549 transaction type: BUY ;
+--------------------
+Date: 28/9/2022
+Time: 10:52
+Phone Number: +919036639041
+Message: stock: HINDUNILVR Quantity: 3 Order id: 220928600823921 transaction type: BUY ;
+--------------------
+Date: 28/9/2022
+Time: 11:18
+Phone Number: +919036639041
+Message: stock: HINDUNILVR Quantity: 3 Order id: 220928600920854 transaction type: SELL ; stock: ADANIENT Quantity: 2 Order id: 220928600919813 transaction type: SELL ;
+--------------------
+Date: 28/9/2022
+Time: 11:43
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 220928601016587 transaction type: BUY ;
+--------------------
+Date: 28/9/2022
+Time: 13:25
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 2 Order id: 220928601397170 transaction type: BUY ;
+--------------------
+Date: 28/9/2022
+Time: 13:42
+Phone Number: +919036639041
+Message: stock: CIPLA Quantity: 9 Order id: 220928601447680 transaction type: BUY ;
+--------------------
+Date: 28/9/2022
+Time: 14:30
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 2 Order id: 220928601617081 transaction type: SELL ;
+--------------------
+Date: 28/9/2022
+Time: 14:43
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 220928601674165 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 9:16
+Phone Number: +919036639041
+Message: stock: TITAN Quantity: 3 Order id: 220929600073817 transaction type: BUY ; stock: DIVISLAB Quantity: 2 Order id: 220929600072373 transaction type: BUY ; stock: RELIANCE Quantity: 4 Order id: 220929600070145 transaction type: BUY ; stock: INDHOTEL Quantity: 30 Order id: 220929600069441 transaction type: BUY ; stock: M&M Quantity: 7 Order id: 220929600067679 transaction type: BUY ; stock: ITC Quantity: 30 Order id: 220929600065896 transaction type: BUY ; stock: BAJFINANCE Quantity: 1 Order id: 220929600065232 transaction type: BUY ; stock: ADANIENT Quantity: 2 Order id: 220929600064486 transaction type: BUY ; stock: ICICIBANK Quantity: 11 Order id: 220929600063782 transaction type: BUY ;
+--------------------
+Date: 29/9/2022
+Time: 9:20
+Phone Number: +919036639041
+Message: stock: BHARTIARTL Quantity: 13 Order id: 220929600153196 transaction type: BUY ;
+--------------------
+Date: 29/9/2022
+Time: 9:29
+Phone Number: +919036639041
+Message: stock: CIPLA Quantity: 9 Order id: 220929600263427 transaction type: BUY ;
+--------------------
+Date: 29/9/2022
+Time: 10:18
+Phone Number: +919036639041
+Message: stock: TITAN Quantity: 3 Order id: 220929600649742 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 11:7
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 2 Order id: 220929600900948 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 11:12
+Phone Number: +919036639041
+Message: stock: ICICIBANK Quantity: 11 Order id: 220929600924570 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 11:29
+Phone Number: +919036639041
+Message: stock: BAJFINANCE Quantity: 1 Order id: 220929601003715 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 11:52
+Phone Number: +919036639041
+Message: stock: RELIANCE Quantity: 4 Order id: 220929601110717 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 12:21
+Phone Number: +919036639041
+Message: stock: INDHOTEL Quantity: 30 Order id: 220929601251023 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 13:22
+Phone Number: +919036639041
+Message: stock: BHARTIARTL Quantity: 13 Order id: 220929601574587 transaction type: SELL ; stock: DIVISLAB Quantity: 2 Order id: 220929601574290 transaction type: SELL ; stock: M&M Quantity: 7 Order id: 220929601572739 transaction type: SELL ;
+--------------------
+Date: 29/9/2022
+Time: 14:57
+Phone Number: +919036639041
+Message: stock: M&M Quantity: 7 Order id: 220929602102289 transaction type: BUY ;
+--------------------
+Date: 29/9/2022
+Time: 15:2
+Phone Number: +919036639041
+Message: stock: INDHOTEL Quantity: 30 Order id: 220929602133388 transaction type: BUY ;
+--------------------
+Date: 30/9/2022
+Time: 9:28
+Phone Number: +919036639041
+Message: stock: BAJFINANCE Quantity: 1 Order id: 220930600179259 transaction type: SELL ; stock: HINDUNILVR Quantity: 3 Order id: 220930600178921 transaction type: SELL ; stock: POLYCAB Quantity: 3 Order id: 220930600178700 transaction type: SELL ; stock: M&M Quantity: 7 Order id: 220930600178323 transaction type: SELL ; stock: ASIANPAINT Quantity: 3 Order id: 220930600178136 transaction type: SELL ; stock: SRF Quantity: 4 Order id: 220930600177409 transaction type: SELL ;
+--------------------
+Date: 30/9/2022
+Time: 9:34
+Phone Number: +919036639041
+Message: stock: IRCTC Quantity: 14 Order id: 220930600218110 transaction type: SELL ;
+--------------------
+Date: 30/9/2022
+Time: 9:38
+Phone Number: +919036639041
+Message: stock: INDHOTEL Quantity: 30 Order id: 220930600247669 transaction type: SELL ;
+--------------------
+Date: 30/9/2022
+Time: 9:42
+Phone Number: +919036639041
+Message: stock: POWERGRID Quantity: 46 Order id: 220930600281435 transaction type: BUY ;
+--------------------
+Date: 30/9/2022
+Time: 9:51
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 30 Order id: 220930600341996 transaction type: SELL ;
+--------------------
+Date: 30/9/2022
+Time: 10:35
+Phone Number: +919036639041
+Message: stock: CIPLA Quantity: 18 Order id: 220930600602769 transaction type: SELL ;
+--------------------
+Date: 30/9/2022
+Time: 10:39
+Phone Number: +919036639041
+Message: stock: BAJFINANCE Quantity: 1 Order id: 220930600631164 transaction type: BUY ;
+--------------------
+Date: 30/9/2022
+Time: 10:44
+Phone Number: +919036639041
+Message: stock: BAJFINANCE Quantity: 1 Order id: 220930600661805 transaction type: BUY ;
+--------------------
+Date: 30/9/2022
+Time: 11:35
+Phone Number: +919036639041
+Message: stock: IRCTC Quantity: 14 Order id: 220930600885871 transaction type: BUY ; stock: SUNPHARMA Quantity: 10 Order id: 220930600885779 transaction type: BUY ;
+--------------------
+Date: 30/9/2022
+Time: 12:54
+Phone Number: +919036639041
+Message: stock: ASIANPAINT Quantity: 2 Order id: 220930601168014 transaction type: BUY ;
+--------------------
+Date: 30/9/2022
+Time: 13:20
+Phone Number: +919036639041
+Message: stock: POWERGRID Quantity: 46 Order id: 220930601250624 transaction type: SELL ;
+--------------------
+Date: 30/9/2022
+Time: 14:4
+Phone Number: +919036639041
+Message: stock: POLYCAB Quantity: 3 Order id: 220930601383401 transaction type: BUY ;
+--------------------
+Date: 3/10/2022
+Time: 10:39
+Phone Number: +919036639041
+Message: stock: BAJFINANCE Quantity: 1 Order id: 221003500717909 transaction type: SELL ; stock: BHARTIARTL Quantity: 12 Order id: 221003500717790 transaction type: SELL ;
+--------------------
+Date: 3/10/2022
+Time: 11:15
+Phone Number: +919036639041
+Message: stock: BHARTIARTL Quantity: 12 Order id: 221003500844499 transaction type: BUY ; stock: SUNPHARMA Quantity: 10 Order id: 221003500844086 transaction type: BUY ;
+--------------------
+Date: 3/10/2022
+Time: 11:30
+Phone Number: +919036639041
+Message: stock: BHARTIARTL Quantity: 12 Order id: 221003500935040 transaction type: BUY ; stock: SRF Quantity: 3 Order id: 221003500934827 transaction type: BUY ;
+--------------------
+Date: 3/10/2022
+Time: 11:45
+Phone Number: +919036639041
+Message: stock: BANKBARODA Quantity: 75 Order id: 221003501000014 transaction type: BUY ;
+--------------------
+Date: 3/10/2022
+Time: 12:30
+Phone Number: +919036639041
+Message: stock: ABFRL Quantity: 29 Order id: 221003501159305 transaction type: SELL ;
+--------------------
+Date: 3/10/2022
+Time: 12:45
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 30 Order id: 221003501227736 transaction type: SELL ; stock: TATACHEM Quantity: 8 Order id: 221003501227583 transaction type: SELL ; stock: ADANIENT Quantity: 3 Order id: 221003501227207 transaction type: SELL ;
+--------------------
+Date: 3/10/2022
+Time: 13:15
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 3 Order id: 221003501327046 transaction type: BUY ;
+--------------------
+Date: 3/10/2022
+Time: 15:0
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 30 Order id: 221003501780665 transaction type: SELL ;
+--------------------
+Date: 4/10/2022
+Time: 9:45
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 3 Order id: 221004600443190 transaction type: SELL ;
+--------------------
+Date: 4/10/2022
+Time: 10:0
+Phone Number: +919036639041
+Message: stock: ADANIENT Quantity: 3 Order id: 221004600546313 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 10:30
+Phone Number: +919036639041
+Message: stock: CHOLAFIN Quantity: 13 Order id: 221004600724938 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 10:45
+Phone Number: +919036639041
+Message: stock: TATACHEM Quantity: 8 Order id: 221004600788822 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 11:30
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 30 Order id: 221004600995441 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 11:45
+Phone Number: +919036639041
+Message: stock: TATAPOWER Quantity: 45 Order id: 221004601043841 transaction type: BUY ; stock: BAJFINANCE Quantity: 1 Order id: 221004601043508 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 12:15
+Phone Number: +919036639041
+Message: stock: INDHOTEL Quantity: 29 Order id: 221004601140731 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 12:45
+Phone Number: +919036639041
+Message: stock: M&M Quantity: 7 Order id: 221004601256527 transaction type: BUY ;
+--------------------
+Date: 4/10/2022
+Time: 13:0
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 30 Order id: 221004601308533 transaction type: SELL ; stock: CHOLAFIN Quantity: 13 Order id: 221004601308371 transaction type: SELL ;
+--------------------
+Date: 4/10/2022
+Time: 13:15
+Phone Number: +919036639041
+Message: stock: TATACHEM Quantity: 8 Order id: 221004601353808 transaction type: SELL ; stock: BAJFINANCE Quantity: 1 Order id: 221004601353442 transaction type: SELL ;
+--------------------
+Date: 4/10/2022
+Time: 13:30
+Phone Number: +919036639041
+Message: stock: SRF Quantity: 3 Order id: 221004601391069 transaction type: BUY ; stock: M&M Quantity: 7 Order id: 221004601390888 transaction type: SELL ;
+--------------------
+Date: 4/10/2022
+Time: 14:45
+Phone Number: +919036639041
+Message: stock: TATAPOWER Quantity: 45 Order id: 221004601659240 transaction type: SELL ;
+--------------------
+Date: 6/10/2022
+Time: 9:45
+Phone Number: +919036639041
+Message: stock: SUNPHARMA Quantity: 10 Order id: 221006600460946 transaction type: BUY ;
+--------------------
+Date: 6/10/2022
+Time: 10:0
+Phone Number: +919036639041
+Message: stock: ABFRL Quantity: 29 Order id: 221006600604068 transaction type: BUY ; stock: ADANIENT Quantity: 3 Order id: 221006600603639 transaction type: BUY ;
+--------------------
+Date: 6/10/2022
+Time: 10:30
+Phone Number: +919036639041
+Message: stock: TATACHEM Quantity: 8 Order id: 221006600813075 transaction type: BUY ;
+--------------------
+Date: 6/10/2022
+Time: 11:0
+Phone Number: +919036639041
+Message: stock: SUNPHARMA Quantity: 10 Order id: 221006600966819 transaction type: SELL ;
+--------------------
+Date: 6/10/2022
+Time: 11:15
+Phone Number: +919036639041
+Message: stock: ITC Quantity: 29 Order id: 221006601047716 transaction type: BUY ;
+--------------------
+Date: 6/10/2022
+Time: 13:0
+Phone Number: +919036639041
+Message: stock: BAJFINANCE Quantity: 1 Order id: 221006601578646 transaction type: BUY ; stock: ITC Quantity: 29 Order id: 221006601578473 transaction type: SELL ;
+--------------------
+Date: 6/10/2022
+Time: 13:30
+Phone Number: +919036639041
+Message: stock: HAL Quantity: 4 Order id: 221006601732451 transaction type: SELL ;
+--------------------
+Date: 7/10/2022
+Time: 10:0
+Phone Number: +919036639041
+Message: stock: IRCTC Quantity: 13 Order id: 221007600453568 transaction type: BUY ; stock: TATAMOTORS Quantity: 24 Order id: 221007600453234 transaction type: BUY ; stock: TRENT Quantity: 6 Order id: 221007600452903 transaction type: BUY ; stock: TITAN Quantity: 3 Order id: 221007600452307 transaction type: BUY ; stock: POLYCAB Quantity: 3 Order id: 221007600451456 transaction type: BUY ; stock: ABB Quantity: 3 Order id: 221007600450845 transaction type: BUY ; stock: TATACHEM Quantity: 8 Order id: 221007600450453 transaction type: BUY ;
+--------------------
